@@ -1,3 +1,4 @@
 # 230424KOBA reactApp
 
-ポケモン API の取得と表示
+ポケモン API
+https://pokeapi.co/から取得した情報をコンソールに表示するだけ
